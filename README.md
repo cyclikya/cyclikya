@@ -32,14 +32,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-@cyclik_ya-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/cyclik_ya)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cyclikya&count_private=true&show_icons=true&include_all_commits=true)
-
 <br>
-
-<img src="https://media1.tenor.com/m/-B6ZuVpFwOgAAAAC/nyan-cat.gif" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=cyclikya&label=PROFILE+VIEWS" />
     </td>
-    <td width="40%" valign="top" align="center">
+    <td width="37%" valign="top" align="center">
       <img src="https://nztcdn.com/files/d4093219-ac6d-4857-b21f-c3b1854bc707.webp" width="100%" alt="gif" />
-      ![Profile Views](https://komarev.com/ghpvc/?username=cyclikya&label=PROFILE+VIEWS)
     </td>
    </tr>
 </table>
