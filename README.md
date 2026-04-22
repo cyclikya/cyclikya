@@ -40,8 +40,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=cyclikya&label=PROFILE+VIEWS&style=flat-square" />
-
+<img src="https://media1.tenor.com/m/-B6ZuVpFwOgAAAAC/nyan-cat.gif" width="100%" />
     </td>
     <td width="40%" valign="top" align="center">
       <img src="https://nztcdn.com/files/d4093219-ac6d-4857-b21f-c3b1854bc707.webp" width="100%" alt="gif" />
