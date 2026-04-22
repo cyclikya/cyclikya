@@ -29,7 +29,9 @@
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/ugorenkovioletta/)
 [![Instagram Badge](https://img.shields.io/badge/-cyclik_ya-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cyclik_ya/)
 [![Gmail Badge](https://img.shields.io/badge/-vugorenko2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vugorenko2000@gmail.com)
+<a href="https://github.com/cyclikya/cyclikya/blob/main/CV.pdf"><img src="https://img.shields.io/badge/-CV-4285F4?style=flat-square&logo=google-drive&logoColor=white" /></a>
 [![Telegram Badge](https://img.shields.io/badge/-@cyclik_ya-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/cyclik_ya)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cyclikya&count_private=true&show_icons=true&include_all_commits=true)
 <br>
