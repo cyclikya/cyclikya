@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top">
 
 **Technologies**
 <br>
@@ -35,7 +35,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=cyclikya&label=PROFILE+VIEWS" />
     </td>
-    <td width="37%" valign="top" align="center">
+    <td width="45%" valign="top" align="center">
       <img src="https://nztcdn.com/files/d4093219-ac6d-4857-b21f-c3b1854bc707.webp" width="100%" alt="gif" />
     </td>
    </tr>
